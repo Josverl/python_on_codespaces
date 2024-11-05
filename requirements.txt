@@ -1,0 +1,10 @@
+# requirement can be installed with 
+# pip3 install -U -r requirements.txt
+
+pandas 
+openpyxl 
+openai 
+python-dotenv 
+requests 
+pydantic 
+markdownify
